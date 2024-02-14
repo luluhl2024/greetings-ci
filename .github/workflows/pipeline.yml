@@ -18,9 +18,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
-# Map a step output to a job output
-outputs:
-  artifact-tag: ${{ steps.changelog.outputs.version }}
+    # Map a step output to a job output
+    outputs:
+      artifact-tag: ${{ steps.changelog.outputs.version }}
     
     permissions:
       contents: write
