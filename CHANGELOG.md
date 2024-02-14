@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/luluhl2024/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-14)
+
+
+### Features
+
+* add workflow ([b0ed5a8](https://github.com/luluhl2024/greetings-ci/commit/b0ed5a877a59bf09b2e97b5ac09e9b210a387df7))
+
+
+
 # [0.6.0](https://github.com/luluhl2024/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-14)
 
 
@@ -32,18 +41,6 @@
 
 * add testing to pipeline ([6ec59b5](https://github.com/luluhl2024/greetings-ci/commit/6ec59b51be5e6d2e523b6848bcc728a31f8d0bd3))
 * add testing to pipeline 2 ([aff5925](https://github.com/luluhl2024/greetings-ci/commit/aff5925e3d8d4dc3640e16d00f97b448dae161f5))
-
-
-
-# [0.2.0](https://github.com/luluhl2024/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-14)
-
-
-### Features
-
-* fix issue ([8c9a7d0](https://github.com/luluhl2024/greetings-ci/commit/8c9a7d041d9dd6748ea09462c95b81fb7eed33ae))
-* Update pipeline.yml ([674b529](https://github.com/luluhl2024/greetings-ci/commit/674b52986165efdd6743e13406bc6bf995c4d587))
-* upload artifact ([595b8d5](https://github.com/luluhl2024/greetings-ci/commit/595b8d5f7f9035cbde5bb36c0910dfad2badbc7f))
-* version artifact ([5692dcf](https://github.com/luluhl2024/greetings-ci/commit/5692dcff852ee3c2c3cb5838bbc3e47589c49bbd))
 
 
 
