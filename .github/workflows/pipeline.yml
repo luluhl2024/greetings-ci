@@ -40,9 +40,9 @@ jobs:
     - name: Build with Gradle Wrapper
       run: ./gradlew build
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4.3.0
-        with:
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4.3.0
+      with:
         name: greetings-jar
         path: build/libs
 
