@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/luluhl2024/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-14)
+
+
+### Features
+
+* add testing to pipeline 4 ([5ce450f](https://github.com/luluhl2024/greetings-ci/commit/5ce450fbf10953a2a61dc3e9e5ee0b8fddfdaab0))
+
+
+
 # [0.4.0](https://github.com/luluhl2024/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-14)
 
 
