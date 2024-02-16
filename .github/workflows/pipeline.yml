@@ -85,7 +85,6 @@ jobs:
       shell: bash
       run: | 
         chmod +x ./test-script.sh
-        abc
         ./test-script.sh ${{ github.event.inputs.myVersion || needs.build.outputs.artifact-tag }} ${{ github.event.inputs.myValues }}
   
   create-issue-on-failure:
